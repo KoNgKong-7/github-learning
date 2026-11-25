@@ -36,8 +36,28 @@ My first GitHub learning project.
 
 
 我正在学习 Git 和 GitHub。
+
 ## 远程更新练习
 
 这是我在 GitHub 网页端进行的第二次修改。
 
 我正在学习 Git Pull 操作。
+
+
+
+\## 分支开发练习
+
+
+
+这是我在 feature/branch-practice 分支中添加的内容。
+
+
+
+本次练习学习了：
+
+1\. 创建 Git 分支
+
+2\. 切换 Git 分支
+
+3\. 在独立分支中开发功能
+
