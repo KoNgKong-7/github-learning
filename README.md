@@ -1,6 +1,8 @@
 # github-learning
+
 My first GitHub learning project
 这是我的第一个 GitHub 项目。
+
 # GitHub Learning
 
 这是我的第一个 GitHub 学习项目。
@@ -15,12 +17,23 @@ My first GitHub learning project
 
 ## 学习进度
 
-- [x] 注册 GitHub
-- [x] 创建第一个仓库
-- [ ] 学习 Git 基础
-- [ ] 学习代码上传
-- [ ] 学习分支管理
+* \[x] 注册 GitHub
+* \[x] 创建第一个仓库
+* \[ ] 学习 Git 基础
+* \[ ] 学习代码上传
+* \[ ] 学习分支管理
 
 ## About
 
 My first GitHub learning project.
+
+\## 本地开发记录
+
+
+
+这是我在 Windows 电脑上完成的第一次本地修改。
+
+
+
+我正在学习 Git 和 GitHub。
+
