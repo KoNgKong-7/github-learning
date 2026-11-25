@@ -36,4 +36,8 @@ My first GitHub learning project.
 
 
 我正在学习 Git 和 GitHub。
+## 远程更新练习
 
+这是我在 GitHub 网页端进行的第二次修改。
+
+我正在学习 Git Pull 操作。
