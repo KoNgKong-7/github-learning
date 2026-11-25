@@ -1,3 +1,26 @@
 # github-learning
 My first GitHub learning project
 这是我的第一个 GitHub 项目。
+# GitHub Learning
+
+这是我的第一个 GitHub 学习项目。
+
+## 学习目标
+
+1. 掌握 GitHub 基础操作
+2. 学习 Git 版本管理
+3. 学习 Java Spring Boot
+4. 学习项目开发与团队协作
+5. 学习 AI 辅助编程
+
+## 学习进度
+
+- [x] 注册 GitHub
+- [x] 创建第一个仓库
+- [ ] 学习 Git 基础
+- [ ] 学习代码上传
+- [ ] 学习分支管理
+
+## About
+
+My first GitHub learning project.
